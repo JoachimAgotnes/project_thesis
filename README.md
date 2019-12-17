@@ -1,5 +1,5 @@
 # project_thesis
-Title: Modelling and Control of Erosion of a Choke in a Gas Lifted Well Network \\
+Title: Modelling and Control of Erosion of a Choke in a Gas Lifted Well Network <br>
 Date: 17.12.2019
 Contact: joachim.agotnes@gmail.com
 Keywords: erosion modelling, data driven modelling, ARMAX, OE, ARX, MPC
